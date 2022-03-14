@@ -37,7 +37,7 @@ class Player
 
 class Mage : Player
 {
-    void DoSomething()
+    void DoSomethingElse()
     {
 
     }
