@@ -37,7 +37,7 @@ class Player
 
 class Mage : Player
 {
-   
+   //TODO
 }
 
 class Warrior : Player
