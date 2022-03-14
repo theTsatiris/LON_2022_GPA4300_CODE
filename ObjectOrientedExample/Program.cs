@@ -37,10 +37,7 @@ class Player
 
 class Mage : Player
 {
-    void DoSomethingElse()
-    {
-
-    }
+   
 }
 
 class Warrior : Player
